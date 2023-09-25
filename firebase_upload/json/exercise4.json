@@ -1,0 +1,74 @@
+[
+  {
+    "sentence": "Wir gehen oft in den Park spazieren.",
+    "hint": "We often go for a walk in the park.",
+    "correct_answer": "Park",
+    "answer_hint": "park",
+    "options": [
+      "Wald",
+      "See",
+      "Strand",
+      "Park"
+    ]
+  },
+  {
+    "sentence": "Die Kinder spielen im Garten Fußball.",
+    "hint": "The kids are playing soccer in the garden.",
+    "correct_answer": "Garten",
+    "answer_hint": "garden",
+    "options": [
+      "Hof",
+      "Feld",
+      "Wiese",
+      "Garten"
+    ]
+  },
+  {
+    "sentence": "Der Lehrer erklärt die Lektion gut.",
+    "hint": "The teacher explains the lesson well.",
+    "correct_answer": "Lehrer",
+    "answer_hint": "teacher",
+    "options": [
+      "Schüler",
+      "Direktor",
+      "Eltern",
+      "Lehrer"
+    ]
+  },
+  {
+    "sentence": "Wir trinken gerne Tee zum Frühstück.",
+    "hint": "We like to drink tea for breakfast.",
+    "correct_answer": "Tee",
+    "answer_hint": "tea",
+    "options": [
+      "Kaffee",
+      "Milch",
+      "Saft",
+      "Tee"
+    ]
+  },
+  {
+    "sentence": "Die Vögel singen früh am Morgen.",
+    "hint": "The birds sing early in the morning.",
+    "correct_answer": "Vögel",
+    "answer_hint": "birds",
+    "options": [
+      "Bienen",
+      "Schmetterlinge",
+      "Fliegen",
+      "Vögel"
+    ]
+  },
+  {
+    "sentence": "Die Sonne scheint im Sommer hell.",
+    "hint": "The sun shines brightly in the summer.",
+    "correct_answer": "Sommer",
+    "answer_hint": "summer",
+    "options": [
+      "Frühling",
+      "Herbst",
+      "Winter",
+      "Sommer"
+    ]
+  }
+]

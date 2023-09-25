@@ -1,0 +1,50 @@
+[
+  {
+    "sentence": "Sie trinkt gerne Kaffee am Morgen.",
+    "hint": "She likes to drink coffee in the morning.",
+    "correct_answer": "Kaffee",
+    "answer_hint": "coffee",
+    "options": [
+      "Tee",
+      "Saft",
+      "Milch",
+      "Kaffee"
+    ]
+  },
+  {
+    "sentence": "Der Hund läuft im Park.",
+    "hint": "The dog is running in the park.",
+    "correct_answer": "Park",
+    "answer_hint": "park",
+    "options": [
+      "Garten",
+      "Strand",
+      "Wald",
+      "Park"
+    ]
+  },
+  {
+    "sentence": "Wir essen Pizza zum Abendessen.",
+    "hint": "We are eating pizza for dinner.",
+    "correct_answer": "Abendessen",
+    "answer_hint": "dinner",
+    "options": [
+      "Mittagessen",
+      "Frühstück",
+      "Abendessen",
+      "Snack"
+    ]
+  },
+  {
+    "sentence": "Er liest ein Buch am Abend.",
+    "hint": "He is reading a book in the evening.",
+    "correct_answer": "Buch",
+    "answer_hint": "book",
+    "options": [
+      "Zeitung",
+      "Magazin",
+      "Roman",
+      "Buch"
+    ]
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "sentence": "Sie hat gestern Abend ein wunderschönes Lied gesungen.",
+    "hint": "She sang a beautiful song last night.",
+    "correct_answer": "gesungen",
+    "answer_hint": "sang",
+    "options": [
+      "singt",
+      "sang",
+      "gesungen",
+      "singt"
+    ]
+  },
+  {
+    "sentence": "Die Katze hat die Eichhörnchen den Baum hoch gejagt.",
+    "hint": "The cat chased the squirrels up the tree.",
+    "correct_answer": "Eichhörnchen",
+    "answer_hint": "squirrel",
+    "options": [
+      "Hund",
+      "Vogel",
+      "Eichhörnchen",
+      "Hase"
+    ]
+  },
+  {
+    "sentence": "Ich finde meine Schlüssel nicht; ich glaube, ich habe sie zu Hause gelassen.",
+    "hint": "I can't find my keys; I think I left them at home.",
+    "correct_answer": "gelassen",
+    "answer_hint": "left",
+    "options": [
+      "verloren",
+      "gefunden",
+      "gelassen",
+      "genommen"
+    ]
+  },
+  {
+    "sentence": "Die Sonne geht auf Osten im und im Westen unter.",
+    "hint": "The sun rises in the east and sets in the west.",
+    "correct_answer": "geht auf",
+    "answer_hint": "rises",
+    "options": [
+      "scheint",
+      "geht auf",
+      "geht auf",
+      "fällt"
+    ]
+  },
+  {
+    "sentence": "Er bringt immer eine Brotdose mit zur Schule.",
+    "hint": "He always brings a lunchbox to school.",
+    "correct_answer": "Brotdose",
+    "answer_hint": "lunchbox",
+    "options": [
+      "Tasche",
+      "Buch",
+      "Brotdose",
+      "Ball"
+    ]
+  },
+  {
+    "sentence": "Ich liebe es, Pizza mit extra Käse oben drauf zu essen.",
+    "hint": "I love to eat pizza with extra cheese on top.",
+    "correct_answer": "Käse",
+    "answer_hint": "cheese",
+    "options": [
+      "Soße",
+      "Pepperoni",
+      "Käse",
+      "Oliven"
+    ]
+  },
+  {
+    "sentence": "Meine Lieblingsjahreszeit ist der Winter, weil ich gerne im Schnee spiele.",
+    "hint": "My favorite season is winter because I love to play in the snow.",
+    "correct_answer": "Winter",
+    "answer_hint": "winter",
+    "options": [
+      "Frühling",
+      "Sommer",
+      "Herbst",
+      "Winter"
+    ]
+  },
+  {
+    "sentence": "Sie spielt das Klavier geschickt und wunderschön.",
+    "hint": "She plays the piano skillfully and beautifully.",
+    "correct_answer": "geschickt",
+    "answer_hint": "skillfully",
+    "options": [
+      "laut",
+      "schnell",
+      "geschickt",
+      "ungeschickt"
+    ]
+  },
+  {
+    "sentence": "Der Eiffelturm befindet sich in Paris.",
+    "hint": "The Eiffel Tower is located in Paris.",
+    "correct_answer": "Paris",
+    "answer_hint": "Paris",
+    "options": [
+      "London",
+      "Rom",
+      "Paris",
+      "New York"
+    ]
+  },
+  {
+    "sentence": "Ich muss Milch, Brot und Eier vom Lebensmittelgeschäft kaufen.",
+    "hint": "I need to buy some milk, bread, and eggs from the grocery store.",
+    "correct_answer": "Eier",
+    "answer_hint": "eggs",
+    "options": [
+      "Eier",
+      "Äpfel",
+      "Cerealien",
+      "Schokolade"
+    ]
+  }
+]

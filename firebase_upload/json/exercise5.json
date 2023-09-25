@@ -1,0 +1,122 @@
+[
+  {
+    "sentence": "Er malt ein Bild auf dem Papier.",
+    "hint": "He is painting a picture on the paper.",
+    "correct_answer": "Papier",
+    "answer_hint": "paper",
+    "options": [
+      "Leinwand",
+      "Holz",
+      "Stoff",
+      "Papier"
+    ]
+  },
+  {
+    "sentence": "Sie hört Musik im Auto.",
+    "hint": "She listens to music in the car.",
+    "correct_answer": "Auto",
+    "answer_hint": "car",
+    "options": [
+      "Fahrrad",
+      "Bus",
+      "Zug",
+      "Auto"
+    ]
+  },
+  {
+    "sentence": "Die Blätter fallen im Herbst von den Bäumen.",
+    "hint": "The leaves fall from the trees in autumn.",
+    "correct_answer": "Herbst",
+    "answer_hint": "autumn",
+    "options": [
+      "Frühling",
+      "Sommer",
+      "Winter",
+      "Herbst"
+    ]
+  },
+  {
+    "sentence": "Die Katze sitzt auf dem Dach.",
+    "hint": "The cat is sitting on the roof.",
+    "correct_answer": "Dach",
+    "answer_hint": "roof",
+    "options": [
+      "Boden",
+      "Fenster",
+      "Tür",
+      "Dach"
+    ]
+  },
+  {
+    "sentence": "Wir gehen oft ins Kino am Wochenende.",
+    "hint": "We often go to the cinema on weekends.",
+    "correct_answer": "Kino",
+    "answer_hint": "cinema",
+    "options": [
+      "Museum",
+      "Theater",
+      "Park",
+      "Kino"
+    ]
+  },
+  {
+    "sentence": "Die Uhr zeigt die Zeit an der Wand.",
+    "hint": "The clock shows the time on the wall.",
+    "correct_answer": "Wand",
+    "answer_hint": "wall",
+    "options": [
+      "Tisch",
+      "Regal",
+      "Schrank",
+      "Wand"
+    ]
+  },
+  {
+    "sentence": "Er kauft frisches Gemüse auf dem Markt.",
+    "hint": "He buys fresh vegetables at the market.",
+    "correct_answer": "Markt",
+    "answer_hint": "market",
+    "options": [
+      "Supermarkt",
+      "Bauernhof",
+      "Geschäft",
+      "Markt"
+    ]
+  },
+  {
+    "sentence": "Der Hund läuft im Wald herum.",
+    "hint": "The dog is running around in the forest.",
+    "correct_answer": "Wald",
+    "answer_hint": "forest",
+    "options": [
+      "Park",
+      "See",
+      "Berg",
+      "Wald"
+    ]
+  },
+  {
+    "sentence": "Sie liest ein Buch in der Bibliothek.",
+    "hint": "She is reading a book in the library.",
+    "correct_answer": "Bibliothek",
+    "answer_hint": "library",
+    "options": [
+      "Schule",
+      "Haus",
+      "Café",
+      "Bibliothek"
+    ]
+  },
+  {
+    "sentence": "Die Lampe hängt an der Decke.",
+    "hint": "The lamp is hanging from the ceiling.",
+    "correct_answer": "Decke",
+    "answer_hint": "ceiling",
+    "options": [
+      "Boden",
+      "Wand",
+      "Tisch",
+      "Decke"
+    ]
+  }
+]

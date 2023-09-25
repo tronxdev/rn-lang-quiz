@@ -1,0 +1,122 @@
+[
+  {
+    "sentence": "Er fährt gern Fahrrad am Wochenende.",
+    "hint": "He enjoys riding a bike on the weekends.",
+    "correct_answer": "Fahrrad",
+    "answer_hint": "bike",
+    "options": [
+      "Auto",
+      "Bus",
+      "Motorrad",
+      "Fahrrad"
+    ]
+  },
+  {
+    "sentence": "Die Blumen blühen im Frühling.",
+    "hint": "The flowers bloom in spring.",
+    "correct_answer": "Frühling",
+    "answer_hint": "spring",
+    "options": [
+      "Sommer",
+      "Herbst",
+      "Winter",
+      "Frühling"
+    ]
+  },
+  {
+    "sentence": "Sie kauft frisches Brot vom Bäcker.",
+    "hint": "She buys fresh bread from the baker.",
+    "correct_answer": "Bäcker",
+    "answer_hint": "baker",
+    "options": [
+      "Metzger",
+      "Supermarkt",
+      "Bäcker",
+      "Markt"
+    ]
+  },
+  {
+    "sentence": "Der Zug fährt pünktlich ab.",
+    "hint": "The train departs on time.",
+    "correct_answer": "Zug",
+    "answer_hint": "train",
+    "options": [
+      "Bus",
+      "Flugzeug",
+      "Auto",
+      "Zug"
+    ]
+  },
+  {
+    "sentence": "Wir gehen am Sonntag in die Kirche.",
+    "hint": "We go to church on Sundays.",
+    "correct_answer": "Kirche",
+    "answer_hint": "church",
+    "options": [
+      "Synagoge",
+      "Moschee",
+      "Tempel",
+      "Kirche"
+    ]
+  },
+  {
+    "sentence": "Sie trägt einen roten Rock zur Party.",
+    "hint": "She wears a red skirt to the party.",
+    "correct_answer": "Rock",
+    "answer_hint": "skirt",
+    "options": [
+      "Kleid",
+      "Hose",
+      "Bluse",
+      "Rock"
+    ]
+  },
+  {
+    "sentence": "Das Meer ist tief und blau.",
+    "hint": "The sea is deep and blue.",
+    "correct_answer": "Meer",
+    "answer_hint": "sea",
+    "options": [
+      "Fluss",
+      "See",
+      "Ozean",
+      "Meer"
+    ]
+  },
+  {
+    "sentence": "Er schwimmt gern im Schwimmbad.",
+    "hint": "He enjoys swimming at the swimming pool.",
+    "correct_answer": "Schwimmbad",
+    "answer_hint": "swimming pool",
+    "options": [
+      "Strand",
+      "See",
+      "Fluss",
+      "Schwimmbad"
+    ]
+  },
+  {
+    "sentence": "Das Telefon klingelt laut.",
+    "hint": "The phone is ringing loudly.",
+    "correct_answer": "Telefon",
+    "answer_hint": "phone",
+    "options": [
+      "Computer",
+      "Fernseher",
+      "Radio",
+      "Telefon"
+    ]
+  },
+  {
+    "sentence": "Sie isst gern Schokolade zum Nachtisch.",
+    "hint": "She likes to eat chocolate for dessert.",
+    "correct_answer": "Schokolade",
+    "answer_hint": "chocolate",
+    "options": [
+      "Kuchen",
+      "Eis",
+      "Früchte",
+      "Schokolade"
+    ]
+  }
+]
